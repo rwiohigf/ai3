@@ -70,6 +70,12 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
+       "texts": ["블랙홀은 중력이 매우 강하여 빛을 포함한 어떠한 물질·정보도 탈출할 수 없는 시공간상의 중력 특이점으로 대표되는 천체이다.."],
+       "images": ["https://i.namu.wiki/i/chLW43LhZAQvBR_CsaKIbuOO4fXRPT3TMCfwT4IQAJD_a2oUQ264SHF43uqpGnxjKcs-eqtJRL-fbZt-iHlh9g.gif"],
+      "videos": ["https://www.youtube.com/watch?v=01cphOG1maw"]
+     },
+
+ labels[1]: {
        "texts": ["우주는 아름다운 장소이다."],
        "images": ["https://i.namu.wiki/i/chLW43LhZAQvBR_CsaKIbuOO4fXRPT3TMCfwT4IQAJD_a2oUQ264SHF43uqpGnxjKcs-eqtJRL-fbZt-iHlh9g.gif"],
       "videos": ["https://www.youtube.com/watch?v=01cphOG1maw"]
