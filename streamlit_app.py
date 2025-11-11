@@ -76,8 +76,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      },
 
  labels[1]: {
-       "texts": ["우주는 아름다운 장소이다."],
-       "images": ["https://i.namu.wiki/i/chLW43LhZAQvBR_CsaKIbuOO4fXRPT3TMCfwT4IQAJD_a2oUQ264SHF43uqpGnxjKcs-eqtJRL-fbZt-iHlh9g.gif"],
+       "texts": ["우주는 만물을 포함하는 시공간의 총체."],
+     "images" : ["https://image.dongascience.com/Photo/2024/12/c38c59ff912c77eaaca475e63f419524.jpg"],
       "videos": ["https://www.youtube.com/watch?v=01cphOG1maw"]
      },
 }
