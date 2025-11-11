@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["우주는 아름다운 장소이다."],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://i.namu.wiki/i/chLW43LhZAQvBR_CsaKIbuOO4fXRPT3TMCfwT4IQAJD_a2oUQ264SHF43uqpGnxjKcs-eqtJRL-fbZt-iHlh9g.gif"],
       "videos": ["https://www.youtube.com/watch?v=01cphOG1maw"]
      },
 }
